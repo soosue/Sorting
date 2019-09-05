@@ -7,4 +7,6 @@ this is a repository for studying sorting<br><br>
 {18, 7, 27, 2, 7, 3, 13, 17, 16, 4}<br>
 {7, 5, 6, 6}<br>
 {8, 9, 8, 8}<br>
-{7,7}</p>
+{7,7}<br>
+{1,3}<br>
+{3,1}<br></p>
